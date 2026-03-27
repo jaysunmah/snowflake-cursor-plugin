@@ -13,7 +13,7 @@
         "title": "Snowflake MCP URL"
       },
       "SNOWFLAKE_PAT_TOKEN": {
-        "type: "string",
+        "type": "string",
         "title": "Personal Access Token"
       }
     },
